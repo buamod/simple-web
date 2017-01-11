@@ -23,7 +23,7 @@ FROM yeasy/simple-web:latest
 
 ## Local Run
 ```sh
-$ docker run --rm -it -p 80:80 yeasy/simple-web:latest
+$ docker run --rm -it -p 80:80 buamod/simple-web:latest
 ```
 
 # Which image is based on?
